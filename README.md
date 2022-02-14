@@ -1,6 +1,5 @@
 ## Hugo Carzborn - Soon to be frontend developer
 ### Connect with me:
-[<img align="left" alt="Gmail" width="26px" src="https://user-images.githubusercontent.com/60917627/153951993-15b10f26-5a23-430f-a6e8-2860563dc93b.png" />](**hcarzborn@gmail.com**) 
 [<img align="left" alt="LinkedIn" width="35px" src="https://user-images.githubusercontent.com/60917627/153952114-ce33d4f3-5c8d-42e9-a511-1169cbb996ea.png" />](https://www.linkedin.com/in/hugo-carzborn-89134022b/) 
 
 
